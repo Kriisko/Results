@@ -126,9 +126,6 @@ f<-ggplot(temp, aes(x=party, y=means, fill=sex))+
 f
 ```
 
-<!-- Create a line graph for the same data. With
-error bars of course!-->
-
 Although, we shouldn't make a line graph for these data, my
 moronic instructor thinks I need the practice. Oh, shoot. I
 hope he doesn't dock my grade for that. Whatevs. lol! :)
