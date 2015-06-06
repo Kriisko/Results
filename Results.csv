@@ -1,0 +1,41 @@
+participant,group,sheet,subject,words1,words2,time
+1,PPCEF,A-B,Art,6,29,988
+2,PPCEF,B-A,Shop,18,45,520
+3,Control,B-A,Language arts,20,45,544
+4,Control,B-A,English,12,21,300
+5,PPCEF,B-A,Spelling,12,31,744
+6,PPCEF,A-B,Science,10,20,343
+7,Control,B-A,Bible,9,26,1200
+8,GPCEF,B-A,Science,12,13,321
+9,Control,B-A,Science,12,46,1059
+10,Control,A-B,Language arts,5,33,1200
+11,GPCEF,A-B,History,5,23,448
+12,Control,B-A,History,9,16,807
+13,PPCEF,B-A,Geography,8,33,550
+14,Control,A-B,Biology,6,22,301
+15,PPCEF,A-B,Biology,8,25,867
+16,PPCEF,A-B,Physical Education,8,18,659
+17,Control,B-A,Math,12,43,696
+18,PPCEF,B-A,History,23,44,413
+19,PPCEF,A-B,Biology,23,54,658
+20,GPCEF,B-A,Reading,9,11,311
+21,PPCEF,B-A,History,11,15,383
+22,GPCEF,B-A,Math,7,7,161
+23,PPCEF,A-B,Geography,6,23,407
+24,GPCEF,A-B,Science,4,16,243
+25,Control,B-A,Computer Science,13,18,499
+26,PPCEF,B-A,Math,16,30,982
+27,GPCEF,B-A,English,15,37,332
+28,PPCEF,A-B,History,7,34,642
+29,PPCEF,B-A,Journalism,12,42,1200
+30,GPCEF,A-B,Math,11,46,1141
+31,PPCEF,A-B,Science,12,28,283
+32,PPCEF,B-A,Welding,11,9,289
+33,Control,A-B,Art,10,16,391
+34,PPCEF,B-A,History,14,12,256
+35,Control,A-B,History,9,29,400
+36,GPCEF,B-A,Writing,11,50,1200
+37,PPCEF,A-B,Journalism/physics,7,33,420
+38,PPCEF,A-B,Math,12,28,1200
+39,PPCEF,B-A,Woodshop,7,35,925
+40,GPCEF,B-A,English,11,27,957
